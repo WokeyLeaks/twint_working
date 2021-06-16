@@ -5,5 +5,5 @@ c = twint.Config()
 c.Username = "niall_boylan"
 c.Search = "today"
 
-# Run
+# Run it
 twint.run.Search(c)
